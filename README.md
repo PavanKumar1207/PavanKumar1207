@@ -1,6 +1,6 @@
 <img src="https://github.com/PavanKumar1207/PavanKumar1207/blob/main/image_1.png">
 <h1 align="center">Hi 👋, I'm Kayala Pavan Kumar</h1>
-<h3 align="center">A passionate data science enthusiastic from India</h3>
+<h3 align="center">A passionate Data Science enthusiastic from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumar1207&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumar1207" /> </p>
 
