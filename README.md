@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumar1207&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumar1207" /> </p>
 
-
+<img align="right" src="https://i.redd.it/n8agw6z2smyb1.gif" width=400>
 
 - 🌱 I’m currently learning **LLM's and Django**
 
