@@ -1,4 +1,4 @@
-<img src="![image](https://github.com/user-attachments/assets/3dd1d9ea-f7f4-45cf-913a-7c993f7d703a)">
+<img src="https://github.com/PavanKumar1207/PavanKumar1207/blob/main/image.png">
 <h1 align="center">Hi 👋, I'm Kayala Pavan Kumar</h1>
 <h3 align="center">A passionate data science enthusiastic from India</h3>
 
