@@ -1,4 +1,4 @@
-<img src="https://github.com/PavanKumar1207/PavanKumar1207/blob/main/image.png">
+<img src="https://github.com/PavanKumar1207/PavanKumar1207/blob/main/image_1.png">
 <h1 align="center">Hi 👋, I'm Kayala Pavan Kumar</h1>
 <h3 align="center">A passionate data science enthusiastic from India</h3>
 
