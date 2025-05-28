@@ -1,48 +1,92 @@
-<img src="https://github.com/PavanKumar1207/PavanKumar1207/blob/main/image_1.png">
+<img src="https://github.com/PavanKumar1207/PavanKumar1207/blob/main/image_1.png" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Kayala Pavan Kumar</h1>
-<h3 align="center">A passionate Data Science enthusiastic from India</h3>
+<h3 align="center">🚀 Passionate Data Science & AI Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PavanKumar1207&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumar1207" /> </p>
+<p align="center">
+  <a href="https://pavan-portfolioo.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen" /></a>
+  <a href="https://www.linkedin.com/in/kayala-pavankumar1230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
+  <a href="mailto:pavankumark764@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red" /></a>
+  <img src="https://komarev.com/ghpvc/?username=PavanKumar1207&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumar1207" />
+</p>
 
-<img align="right" src="https://i.redd.it/n8agw6z2smyb1.gif" width=400>
+<img align="right" src="https://i.redd.it/n8agw6z2smyb1.gif" width="400" />
+
+### 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student @ **NRI Institute of Technology**
+- 📌 Based in **Andhra Pradesh, India**
+- 🌱 Currently learning **Agentic AI**
+- 💬 Ask me about **Machine Learning, NLP, DL**
+- 📄 [Check out my Resume](https://github.com/PavanKumar1207/PavanKumar1207/blob/main/Pavan_s_resume.pdf)
+
+---
+
+### 🛠️ Languages & Tools
 
 <p>
-I'm enthusiastic about leveraging data to solve problems and am currently expanding my skills in cutting-edge areas like LLMs and web development with Django.
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/flask/flask-icon.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" />
 </p>
 
 ---
 
-**About Me:**
+### 📈 GitHub Stats
 
-- 🌱 I'm currently learning **LLM's and Django** to build powerful, data-driven applications.
-- 🤝 I'm looking for help with my project: [Traffic Management](github.com/PavanKumar1207/traffic_management). This project aims to [add a brief description of the project's goal or current state].
-- 💬 Ask me about **Machine learning, data analysis, and Python.**
-- 📫 How to reach me: **pavankumark764@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kayala-pavankumar1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kayala-pavankumar1207" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PavanKumar1207&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🧠 Projects
+
+- 📚 [**Personalized Book Recommender**](https://github.com/PavanKumar1207/PERSONALIZED-BOOK-RECOMMENDER)  
+  NLP | LangChain | ChromaDB | HuggingFace  
+  *Context-aware book recommendations based on user moods and sentiment.*
+
+- 🤖 [**AI-powered Resume Screening System**](https://github.com/PavanKumar1207/AI-POWERED-RESUME-SCREENING)  
+  Flask | NLP | TF-IDF | Gensim | LDA  
+  *Ranks resumes using semantic similarity to job descriptions.*
+
+- 💬 [**Sentiment Analysis App**](https://github.com/PavanKumar1207/SentimentAnalysis_LSTM)  
+  NLP | Flask | ML | NLTK  
+  *Classifies restaurant reviews in real time with a web UI.*
+
+- 📊 [**IPL Infographics Dashboard**](https://github.com/amalsalilan/IPL_Infographics_Data_Analytics_-_Data_Visualization_Infosys_Internship_Oct2024)  
+  Power BI | EDA | Feature Engineering  
+  *Data storytelling with IPL stats to reveal performance trends.*
 
 ---
 
-<h3 align="left">My GitHub Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PavanKumar1207&show_icons=true&locale=en" alt="pavankumar1207" /></p>
+### 🎓 Certifications
+
+- 🧠 **AI Associate** – Salesforce  
+- 🛠️ **Prompt Engineering** – IBM  
+- 🐍 **Python for Data Science** – IBM
 
 ---
 
-<h3 align="left">Featured Projects:</h3>
-<!-- Add projects here following a similar format -->
-<!--
-<h4>[Project Name]</h4>
-<p>[Brief description of the project]</p>
-<p>Technologies used: [List technologies]</p>
-<p>[Link to project repository]</p>
---> 
+### 🌐 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kayala-pavankumar1230)
+- 💻 [Portfolio Website](https://pavan-portfolioo.netlify.app/)
+- 📧 [Email](mailto:pavankumark764@gmail.com)
+
+---
+
+> "Learning is never cumulative, it is a movement of knowing which has no beginning and no end." – Bruce Lee
